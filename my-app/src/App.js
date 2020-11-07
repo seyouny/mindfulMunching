@@ -1,9 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import Formm from './components/form.js'
+import React from 'react'
+
 
 function App() {
-  return ()
-    
+  
+    return (
+      <Formm></Formm>
+    )
+
+  
 }
 
-export default App;
+  export default App;
